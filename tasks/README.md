@@ -1,4 +1,4 @@
-- Insert_car_with_check.sql - Explaination
+## Insert_car_with_check.sql - Explaination
 
 This project shows how to use a stored procedure in PostgreSQL with two tables:  
 - `cars` → stores existing cars (duplicates allowed)  
